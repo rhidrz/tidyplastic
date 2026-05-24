@@ -1,0 +1,18 @@
+utils::globalVariables(c(
+  "grand_total",
+  "volunteers",
+  "total_volunteers",
+  "total_plastic",
+  "country",
+  "iso",
+  "proxy_score",
+  "gdp_per_capita_proxy",
+  "gdp_per_capita_nominal",
+  "region",
+  "region_label",
+  "avg_efficiency",
+  "summarise",
+  "ungroup",
+  "group_modify",
+  "path"
+))
